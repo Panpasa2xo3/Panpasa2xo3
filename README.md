@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - **Languages:** JavaScript, Python, Java
 - **Frameworks:** React, Node.js, Express, Bootstrap
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, VSCode
+- **Databases:** MySQL
+- **Tools:** Git,  VSCode
 
 ## 🚀 GitHub Stats
 
