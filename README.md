@@ -5,8 +5,6 @@
 </div>
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **[Movie Search App](https://github.com/Panpasa2xo3/movie-search-app)** using React and Node.js
 - 🌱 I’m currently learning **UI/UX design** and **Database Management**
 - 👯 I’m looking to collaborate on **open-source projects** related to **web development** and **app development**
 - 🤔 I’m looking for help with **optimizing performance of my applications**
@@ -43,8 +41,6 @@ Welcome to my profile! 🚀
 ---
 
 ### 📌 **About Me:**
-
-- 🔭 I’m currently working on **[Movie Search App](https://github.com/Panpasa2xo3/movie-search-app)** using React and Node.js
 - 🌱 I’m currently learning **UI/UX design** and **Database Management**
 - 👯 I’m looking to collaborate on **open-source projects** related to **web development** and **app development**
 - 🤔 I’m looking for help with **optimizing performance of my applications**
@@ -71,16 +67,14 @@ Welcome to my profile! 🚀
 ---
 
 ### 🌐 **Let's Connect:**
-
-- 💬 [LinkedIn](https://www.linkedin.com/in/panpasa2xo3)
-- 🐦 [Twitter](https://twitter.com/Panpasa2xo3)
-- 📑 [Portfolio](https://www.yourportfolio.com)
+- 📑 [Portfolio](https://portfolio-panpasa-roan.vercel.app/)
 
 ---
 
 ## 🌟 **Current Project** 
 
-🎬 **Movie Search App** – A fun project to search for movies using **React** and **Node.js**. You can explore it on [GitHub](https://github.com/Panpasa2xo3/movie-search-app) and contribute!
+🎬 **PortfolioPanpasa** – A personal portfolio showcasing my skills, projects, and experience. Feel free to check it out on [PortfolioPanpasa](https://portfolio-panpasa-roan.vercel.app/)!
+
 
 ---
 
