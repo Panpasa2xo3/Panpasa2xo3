@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📸 [Instagram][(https://www.instagram.com/jpah_ki/)  
 - 🎮 [Join my Discord](https://discord.gg/hbrqPNj8pf)  
-- 📑 [Portfolio](https://www.yourportfolio.com)
+- 📑 [Portfolio]((https://portfolio-panpasa-roan.vercel.app/)
 
 **## Hi there 👋
 
