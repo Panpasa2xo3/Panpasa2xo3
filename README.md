@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **optimizing performance of my applications**
 - 💬 Ask me about **programming, UX design, or my favorite tech stacks**
 - 📫 How to reach me: [Email me:panpasa-p@rmutp.ac.th](mailto:panpasa2xo3@gmail.com)
-- 😄 Pronouns: **He/Him** (หรือจะปรับตามตัวเอง)
+- 😄 Pronouns: **She** 
 - ⚡ Fun fact: **I can code while listening to music without getting distracted!**
   
 ## 📚 Skills & Tools
