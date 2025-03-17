@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ## 🌐 Let's Connect
 
-- 💬 [LinkedIn](https://www.linkedin.com/in/panpasa2xo3)
-- 🐦 [Twitter](https://twitter.com/Panpasa2xo3)
+- 📸 [Instagram][(https://www.instagram.com/jpah_ki/)  
+- 🎮 [Join my Discord](https://discord.gg/hbrqPNj8pf)  
 - 📑 [Portfolio](https://www.yourportfolio.com)
 
 **## Hi there 👋
