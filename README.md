@@ -80,9 +80,10 @@ Welcome to my profile! 🚀
 
 ## 🎨 **UI/UX Design Inspiration:**
 
-Here’s a design I’ve been inspired by recently:
+Here’s a design I’ve been working on recently:
 
-![Inspiration](https://via.placeholder.com/800x400.png?text=UI+Inspiration)
+🍔 **Foodtruck Design** – A UX/UI design for a food truck app. You can explore it on my [Figma Portfolio](https://www.figma.com/design/wmXOnI18QYGgZg9Bq4hCbs/Foodtruck?node-id=74-383&t=wU0rLEVq72QpHuLa-1).
+
 
 ---
 
